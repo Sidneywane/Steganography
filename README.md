@@ -8,3 +8,4 @@ ls
 cd Steganography
 ls 
 python hsecrimg.py
+If you are using termux,it will ask you storage access. 
